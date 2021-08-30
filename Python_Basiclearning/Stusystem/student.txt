@@ -1,0 +1,1 @@
+{'id': '1002', 'name': 'osoma', 'english': 98, 'python': 78, 'java': 86}
